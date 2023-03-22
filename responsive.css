@@ -1,0 +1,461 @@
+@media (min-width: 768px) and (max-width: 1024px){
+    .people_image-box .img-size{padding-top: 35px;}
+    .news-block .inner-box{margin-bottom: 10px;}
+    .outsource-img1{ margin-bottom: 30px;}
+    .outsourcing-section .peoplfy_heading p.para_p_serv{margin-bottom: 0px;}
+    .resume_heading{padding: 0px;margin-bottom: 30px;} 
+    .resume_heading h2.main{font-size: 30px;}    
+    .do-list li h3{font-size: 20px;line-height: 22px;}
+    .do-list li p.list_p{ line-height: 26px;font-size: 20px;}
+    .do-container h2{ margin: 30px 0px;}
+    .c_para{font-size: 20px;line-height: 26px;padding-bottom: 0px;}
+    .do-list li{margin-bottom: 20px;}     }
+    @media (min-width: 768px) and (max-width: 1104px){
+        
+                            .mid-section {padding: 25px 65px 0px 0px;}
+                            .mid-section-img .mid-img2 img {visibility: hidden;}
+                            .mid-section-img .mid-img1 img {height: 330px; margin: 65px 0;}
+                            .para_p_serv {font-size: 15px; line-height: 20px; margin: 0;}
+                            .peoplfy_heading h2 {font-size: 28px; margin-bottom: 7px!important;line-height: 35px;}
+                            .jobSeeker-container { padding: 25px 0px;}
+                            .subNav_panel{ margin-top: -15%; padding-bottom: 40px;}
+                               
+                            .fig_image-2{ margin-bottom: 30px;}   
+                            ul.competetive-list{ font-size: 22px;}
+                                                        .competitive-strength{ padding: 50px 0px;} 
+                          
+                            .outsourcing-section{margin-bottom: 0px;} 
+                          
+                            .site-heading{width: 100%;}
+                            .team-section .para_p{line-height: 25px;}
+                            .team-section {padding: 60px 0px;}
+                            /* service executive page for tab mode */
+                            .category_section {padding: 65px 0px 65px;}
+                        .md-img{width: 500px !important; height: auto !important; margin-left: auto !important; margin-right: auto !important;}
+                        
+                        .mid-section-img{position: relative;}
+                        
+                        .mid-section{padding: 40px 0px;}
+                        
+                        .mid-section-img .mid-img1 img{margin: 0px;}
+                        
+                        .mid-section{height: 100%;}
+                        
+                        .para_p_serv{margin-bottom: 0px;}
+                        
+                        .mid-section-img .mid-img1 img{position: relative;}
+                        
+                        .mid-section-img{padding: 0; margin: 0;}
+                        
+                        .mid-section .container .row{align-items: center;}
+                        .team-section .section-md{ margin-top: 20px;}
+                        .category_section .para-img figure{margin: 30px 0px;}
+                        
+                        .para_p{  font-size: 14px;}
+                          .tab-menu__wrapper{padding: 70px 0px;}
+                            #section-1{padding-top: 15%;}
+                            .js-tab-menu-content{padding: 50px 0px;}
+                            #section-3{padding-bottom:0px;}
+                            .section-case-news .section-block{               
+                                margin-bottom: 30px!important;}
+                            .blog-para p {
+                            font-size: 15px; line-height: 22px; }                            
+                            .posts_heading h2{                            
+                            margin-top: 20px;   
+                            font-size: 27px;                         
+                            }
+                            .postdetails img{
+                            height: auto; }
+                            .post-text {
+                            margin-left: 20px;                          
+                            padding: 20px 20px;                          
+                            }                         
+                            .post-text li{                          
+                            margin-bottom: 10px;                          
+                            font-size: 20px;                           
+                            }                         
+                            .post-text p {                    
+                            font-size: 15px;                   
+                            line-height: 22px;                
+                            }
+                            .resume-content p{              
+                            font-size:20px ;              
+                            line-height: 25px;              
+                            }
+                            #header.active .nav-link{color: #000!important;}
+                            .navbar .nav-link{color: #fff!important;}
+                            .navbar .a_contact {border: 2px solid #ffff; color: #ffff!important;}
+                            .navbar .a_contact:hover, .navbar .a_contact:focus{border: 2px solid #ca0000!important; color: #ca0000!important;}
+                            }
+
+            @media (min-width: 768px) and (max-width: 990px)
+            {
+                .section-case-news .section-block h3{line-height: 23px; font-size: 18px;} 
+                        .lifeat-text{margin-bottom: 5px!important;}
+                        .set-img img{    margin-top: -50%;
+                            width: 17vh!important;
+                            margin-left: 45%;}
+                            .set-life-img {
+                                position: absolute;
+                                width: 20vh;
+                                top: 16%;
+                                left: 81%;
+                            }
+                             .social-icon-align{justify-content: end!important;}
+                             header .navbar-brand img {max-width: 85%;}
+                            #header.active .nav-link{color: #000!important;}
+                            .navbar .nav-link{color: #000!important;}
+                            .navbar .a_contact {border: 2px solid #ca0000!important; color: #ca0000!important;}
+                            .navbar .a_contact:hover, .navbar .a_contact:focus{border: 2px solid #ca0000!important; color: #ca0000!important;}
+            }
+
+                            @media (min-width: 991px) and (max-width: 1199px)
+                            {
+                                .single-category-holder{min-height: 130px!important;}
+                                .news-block .lower-content{text-align: center;}
+                                .set-img img{    margin-top: -64%;
+                                    width: 20vh!important;
+                                    margin-left: 40%;}
+                                    .set-life-img {
+                                        position: absolute;
+                                        width: 20vh;
+                                        top: 18%;
+                                        left: 84%;
+                                    }
+                                header .navbar-brand img {max-width: 100%;}
+                            }
+                            body #hubspot-messages-iframe-container{bottom:40px !important;}
+
+                            
+                            @media (min-width: 1200px) and (max-width: 1399px)
+                            {
+                                .single-category-holder{min-height: 167px!important;}
+                            }
+                            
+                            @media (min-width: 1400px){
+                                .set-img img{    margin-top: -48%;
+                                    width: 22vh!important;
+                                    margin-left: 60%;}  
+                                    .set-life-img {
+                                        position: absolute;
+                                        width: 20vh;
+                                        top: 18%;
+                                        left: 85%;
+                                    }
+                            }
+
+                            @media (min-width: 1600px){
+                                .set-img img{    margin-top: -100%;
+                                    width: 16vh!important;
+                                    margin-left: 57%;}  
+                                    .set-life-img {
+                                        position: absolute;
+                                        width: 14vh;
+                                        top: 20%;
+                                        left: 72%;
+                                    }
+                                    }
+                            
+                            
+
+                        /* @media (min-width: 767xpx) and (max-width: 990px){
+                            #header.active .nav-link{color: #000!important;}
+                            .navbar .nav-link{color: #000!important;}
+                            #header.active .navbar .a_contact {   border: 2px solid #ca0000!important; color: #ca0000!important;}
+                        } */
+                            @media (min-width: 320px) and (max-width: 767px){
+                                
+                                .peoplfy_heading h5{font-size: 18px; padding: 0px 15px;margin-bottom: 10px;}
+                                .posts_heading h2{font-size: 22px; padding: 0px 15px;}
+                                .section-case-news .section-block h3{
+                                    font-size: 16px;
+                                    line-height: 20px;
+                                }
+                                .section-case-news .section-block .lower-content a{font-size: 14px;}
+                                .client_section .container {
+                                    padding: 60px 0px 15px;}
+                                .testimonial_section{padding: 40px 0px;}
+                                .lifeat-text{margin-top:20px!important;margin-bottom:10px!important;}
+                                .about_section{padding-bottom: 60px;}
+                                
+                                .display-li{display: inline!important;}
+                                .set-life-img {
+                                    position: absolute;
+                                    width: 13vh;
+                                    top: 13%;
+                                    left: 75%;}
+                                .news-block .inner-box{margin-bottom: 10px;}
+                                    .hire_talent p{text-align: center;}
+                                    .employers-section p{text-align: center;}
+                                /* .hire_talent a{    
+                                    margin-left: 23%!important;
+                                    margin-right: 23%!important;} */
+                                .set-img img{   
+                                    padding-top: 7%; 
+                                    width: 15vh!important;
+                                   }
+                                body #hubspot-messages-iframe-container{bottom:10px !important;}
+                                body .hubspot .message-body .widget .widget-app-container .fade-slide-transition-bottom-enter-done .fbQXPU .chat-widget { width: 200px !important;}
+                               
+                                body .hubspot .message-body .widget .widget-app-container .dvBAhE{padding-right: 0px!important;}
+                                .section-md{margin-bottom: 15px;}
+                                .liefpeoplfy__wrapper .peoplfy_heading{margin-bottom: 10px!important;}
+
+                                .social-icon-align{justify-content: start!important; margin: 20px 0px;}
+                                .outsourcing-section .peoplfy_heading p.para_p_serv{margin-bottom: 30px;}
+
+                                .box{height: 200px;}
+                                .box_item .box-text {padding-top: 35px;}
+
+                                .candidates_heading h2{line-height: 2.1rem;font-size: 35px;}
+
+                                .do-container h2{margin: 30px 0px;}
+
+                                
+                                .c_para{padding-bottom: 0px;}
+
+                                .box_cart_icon .span_icon{width: 70px;height: 70px;font-size: 35px;}
+                                .box_cart_icon{margin-bottom: 0px!important;}
+                                .box_cart a {min-height: 250px;}
+                                .people_image-box .img-size{max-width: 80%; height: auto;}
+
+                                #header.active .nav-link{color: #000!important;}
+                                .navbar .nav-link{color: #000!important;}
+                                .navbar .a_contact {border: 2px solid #ca0000!important; color: #ca0000!important;}
+                                .navbar .a_contact:hover, .navbar .a_contact:focus{border: 2px solid #ca0000!important; color: #ca0000!important;}
+                                
+                                .tab-menu{      
+                                display: none;   
+                                }
+                                
+                                .tab-menu__wrapper .mb-5{ 
+                                margin-bottom: 0px!important;   
+                               }
+                                
+                                .js-tab-menu-content{   
+                                padding: 40px 0px;  
+                                }
+                                
+                                .bg_w_shadow{ 
+                                margin-bottom: 30px; 
+                                }
+                                
+                                #section-3{  
+                                padding-bottom: 0px; 
+                                }
+
+                                .peoplfy_heading{
+                                    margin-bottom: 0px!important;
+                                    }
+
+                                .peoplfy_heading h2{
+                                    font-size: 25px;  
+                                    line-height: 35px; 
+                                    padding: 0px 15px;
+                                    }
+                                    
+                                    
+                                    .resources-card h1{   
+                                    font-size: 25px;  
+                                    }
+                                    
+                                    .resume-content h3{ 
+                                    padding-top: 0px!important;
+                                    }
+                                    
+                                    .resume-content p{    
+                                    padding-top: 0px!important;   
+                                    line-height: 22px;  
+                                    }
+                                    
+                                    .resources-header .mb-4{ 
+                                    margin-bottom: 0px!important; 
+                                    }
+                                    header .navbar-brand img {max-width: 65%;}
+                                    .breadcrumb{   font-weight: 600 !important;font-size: 12px;justify-content: center;}  
+                                    .service-title{padding: 30px 0; margin: 0 auto;width: auto;border-radius: 0;}  
+                                    .service-title p{padding: 0 15px 5px 15px;}  
+                                    .service-thumb img {margin-bottom: 20px;border-radius: 20px;}
+                                    .service-title h2 { margin-bottom: 20px;font-size: 27px;}
+                                    
+                                    .case-banner h1{font-weight: 600 !important;font-size: 40px !important;} 
+                                    .sidebar .popular-posts .post .text a {font-size: 12px;} 
+                                    .resources-header {padding: 50px 0px;}
+                                    .team-section {padding: 50px 0px;}
+                                    .career-para {line-height: 22px;text-align: left;}
+                                    .-type-2 .content { padding-right: 0px;}
+                                    /* -------------------------------------------------------- */
+                                    .tab-menu__wrapper .peoplfy_heading h2{font-size: 28px;margin-bottom: 0px;}
+                                    .tab-menu__wrapper{padding: 40px 0px; }
+                                    .serv_heading h2{
+                                    font-weight: 600 !important;
+                                    font-size: 41px !important;        
+                                    }       
+                                    .service_heading h2{    
+                                    font-size: 24px;   
+                                    line-height: 2.1rem; 
+                                    }   
+                                    .service_heading{   
+                                    width: calc(100% - 25px);  
+                                    padding: 20px 4px;  
+                                    margin-left: 14px;  
+                                    }   
+                                    .servicesec{    
+                                    padding:40px 0px;     
+                                    }    
+                                    .service-text-container{  
+                                    padding: 0px 15px;   
+                                    }  
+                                    .tab-menu__wrapper-serv{   
+                                    padding: 40px 0px;   
+                                    }
+                                    .outsource-img1{
+                                    margin-bottom: 20px;   
+                                    }   
+                                    .outsourcing-section{   
+                                    padding: 40px 20px;   
+                                    margin-bottom: 0px;   
+                                    }  
+                                    .outsourcing-section .peoplfy_heading{  
+                                    padding-bottom: 0px;  
+                                    }  
+                                    .outsourcing-section .peoplfy_heading h2{   
+                                    font-size: 27px;  
+                                    line-height: 2.1rem;  
+                                    }
+                                    .resume-heading-section{
+                                    padding: 40px 20px;
+                                    }
+                                    .resume-heading-section .resume_heading{
+                                    padding: 0px;
+                                    padding-bottom: 20px;
+                                    }
+                                    .section-block{
+                                    margin-bottom: 30px!important;
+                                    }
+                                    .blog_list_container{
+                                    padding: 40px 0px;
+                                    }
+                                    .posts_heading{
+                                    padding-top: 20px;
+                                    } 
+                                    ol.breadcrumb{
+                                    text-align: center;   
+                                    display: flex;    
+                                    flex-wrap: wrap;    
+                                    justify-content: center;  
+                                    line-height: 25px; 
+                                    }
+                                    .form-group label {
+                                        display: none;
+                                    }
+                                    .career-div .career-description {
+                                        padding: 25px 20px;
+                                    }
+                                    /* ------------------ */
+                                
+                                .mid-section-img .mid-img1 img {
+                                    visibility: hidden;
+                                }
+                                .mid-section-img {
+                                    display: block;
+                                    width: 100%;   
+                                    padding-bottom: 80px;  
+                                }
+                                .mid-section {
+                                    height: auto;
+                                    padding: 40px 0 0 0;
+                                } 
+                                .jobSeeker-container {
+                                    padding: 20px 0px;
+                                }
+                                .peoplfy_heading h3 {
+                                    font-size: 16px;
+                                }
+                                .mid-section-img .mid-img2 img {
+                                    position: relative;
+                                    right: 30px;
+                                    top: 45px;
+                                }
+                                
+                                .section_70 {padding: 40px 0;}
+                                .box{height: 200px;}
+                                .box_item .box-text {padding-top: 35px;}
+                                .contact-div-text {font-size: 30px!important;}
+                                .para-img figure {margin-top: 25px;}
+                                .category_section {padding: 40px 0px 65px;}
+                                .fig_image-2 {margin: 20px;position: relative;}
+                                .liefpeoplfy__wrapper {padding: 40px 0px 40px;}
+                                .hire_talent h1 {font-size: 45px; line-height: 55px; text-align: center;}
+                                
+                                /* ------------------------------------------------------ */
+                                
+                                .-type-2 .inner-box .image img{
+                                    visibility: hidden;
+                                }
+                                .peoplfy_heading h3 {line-height: 30px;}
+                                /* .section-md{margin-bottom: 10px!important;} */
+                                .why-section-awards{margin-top: 0px!important;}
+                                .form-group {text-align: center;}
+                                .contact-form .form-group button {width: 68%;padding: 10px 7px 10px 10px;}
+                                .competitive-strength {
+                                    padding: 40px 0px;
+                                }
+                                .key-benefits-container {
+                                    padding: 40px 0px;}
+                                    .bgimg-why-section {
+                                        height: 30vh;}
+                                        .bgimg-why-section-sec {
+                                            height: 30vh;}
+                                            /* .bgimg-awards {
+                                                height: 300px;} */
+                                                .md-img {
+                                                    margin-bottom: 25px;}
+                                                    .breadcrumb-item+.breadcrumb-item::before {float: none; }
+                                                    .recruite_heading h2 {
+                                                        font-size: 31px;line-height: 40px; 
+                                                    }
+                                                    .recruite_wrapper {
+                                                        padding: 40px 0px;
+                                                    }
+                                                    .site-heading h2 {          
+                                                        margin-bottom: 12px!important;
+                                                        font-size: 26px;
+                                                        line-height: 35px;
+                                                    }
+                                                        .site-heading p {
+                                                            font-size: 15px;
+                                                            line-height: 20px;}
+                                                            .sidebar-widget{
+                                                                margin-bottom:0px;
+                                                            }
+                                                            .sidebar-page-container {
+                                                                padding: 80px 0px 80px;
+                                                            }
+                                                            .sidebar-page-container .sidebar-side {
+                                                                margin-bottom: 0px;
+                                                            }
+                                                            .postdetails img {
+                                                                height: 80px;
+                                                            }
+                                                            .subNav_panel {
+                                                                padding-bottom: 50px;
+                                                            }
+                                                            .people_image-box {
+                                                                padding-bottom: 30px;
+                                                            }
+                                                            .para_p {
+                                                                margin-bottom: 20px;
+                                                                padding: 0px 15px;
+                                                                font-size: 14px;
+                                                            }
+                                                            .-type-2 .inner-box {  padding: 24px 20px;  text-align: center;   }
+                                
+                                }
+                                /* @media (min-width: 320px) and (max-width: 420px){.chat-widget { width: 280px;}} */
+
+                         
+
+
+
+
